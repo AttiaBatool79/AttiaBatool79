@@ -4,7 +4,7 @@ I am a **Computer Engineering student (6th semester) at UET Taxila** with a stro
 
 ---
 
-## 📌 My Interests
+## My Interests
 - **Wireless Networks** – Wi-Fi, 5G, LTE  
 - **Mobile Networking** – Internet and communication on mobile devices  
 - **AI in Networks** – Applying smart algorithms to improve network performance  
@@ -12,7 +12,7 @@ I am a **Computer Engineering student (6th semester) at UET Taxila** with a stro
 
 ---
 
-## 📚 Currently Learning
+## Currently Learning
 - **5G and Wireless Communication Concepts**  
 - **Machine Learning and Artificial Intelligence**  
 - **Digital System Design**  
@@ -21,14 +21,14 @@ I am a **Computer Engineering student (6th semester) at UET Taxila** with a stro
 
 ---
 
-## 🔧 What I’m Working On
+## What I’m Working On
 - Exploring enhancements in **5G networks**  
 - Using **AI** to make wireless communication smarter  
 - Building basic solutions for **smart and connected systems**
 
 ---
 
-## 📫 Reach Me
+## Reach Me
 - **Email:** [attia.computerengineer079@gmail.com](mailto:attia.computerengineer079@gmail.com)  
 - **LinkedIn:** [linkedin.com/in/attia-batool-079-engineer](https://www.linkedin.com/in/attia-batool-079-engineer)  
 - **GitHub:** [github.com/AttiaBatool79](https://github.com/AttiaBatool79)
