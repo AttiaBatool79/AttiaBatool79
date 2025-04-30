@@ -1,26 +1,34 @@
-Hi, I’m **Attia Batool**  
-I am a **Computer Engineering student (6th semester) at UET Taxila**. I love learning about **Wireless & Mobile Networks** and want to work in this field in the future.  
+# Attia Batool
 
-##  My Interests  
-- **Wireless Networks** – How phones and devices talk to each other (*Wi-Fi, 5G, LTE*)  
-- **Mobile Networking** – How the internet works on mobile phones  
-- **AI in Networks** – Using smart technology to improve networks  
-- **IoT (Internet of Things)** – Connecting everyday things to the internet  
+I am a **Computer Engineering student (6th semester) at UET Taxila** with a strong interest in **Wireless and Mobile Networks**. I aim to build a career in this field and explore how smart technologies can improve communication systems.
 
-##  What I’m Learning Now  
-- **5G Networks** – The super-fast internet for phones  
-- **Wireless Technologies** – How signals travel through air  
-- **AI for Networks** – Making networks smarter  
+---
 
-##  What I’m Working On  
-- Improving **5G Networks**  
-- Making **wireless communication** better using AI  
-- Creating **smart wireless solutions**  
+## 📌 My Interests
+- **Wireless Networks** – Wi-Fi, 5G, LTE  
+- **Mobile Networking** – Internet and communication on mobile devices  
+- **AI in Networks** – Applying smart algorithms to improve network performance  
+- **Internet of Things (IoT)** – Connecting physical devices to the internet  
 
-##  Reach Me  
- Email: [attia.computerengineer079@gmail.com](mailto:attia.computerengineer079@gmail.com)  
- LinkedIn: [www.linkedin.com/in/attia-batool-079-engineer](https://www.linkedin.com/in/attia-batool-079-engineer)  
- GitHub: [https://github.com/AttiaBatool79](https://github.com/AttiaBatool79)  
+---
 
-##  Fun Fact  
-I love learning how **5G and AI** are changing the world! 🚀
+## 📚 Currently Learning
+- **5G and Wireless Communication Concepts**  
+- **Machine Learning and Artificial Intelligence**  
+- **Digital System Design**  
+- **Database Systems**  
+- **Data Analytics**
+
+---
+
+## 🔧 What I’m Working On
+- Exploring enhancements in **5G networks**  
+- Using **AI** to make wireless communication smarter  
+- Building basic solutions for **smart and connected systems**
+
+---
+
+## 📫 Reach Me
+- **Email:** [attia.computerengineer079@gmail.com](mailto:attia.computerengineer079@gmail.com)  
+- **LinkedIn:** [linkedin.com/in/attia-batool-079-engineer](https://www.linkedin.com/in/attia-batool-079-engineer)  
+- **GitHub:** [github.com/AttiaBatool79](https://github.com/AttiaBatool79)
