@@ -6,9 +6,9 @@
 
 ##  What I'm working on
 
-- **IoT energy gateway firmware** (ESP32-S3, ESP-IDF, C++): secure device enrollment with an on-device key, CSR and X.509 certificate; MQTT telemetry to **AWS IoT Core** over mutual TLS; Modbus RTU / RS485 meter integration
-- **Smart Controller**: my own ESP32-S3 relay controller with a web dashboard, schedules, MQTT and OTA updates ([repo](https://github.com/AttiaBatool79/smart-controller-esp32s3))
-- Learning more about **5G and wireless communication** and **AI for networks**
+- **Embedded Systems & IoT:** ESP32, ESP-IDF, C/C++, firmware development, cloud connectivity, MQTT, and device communication.
+- **Embedded Controller Development:** Microcontroller-based controllers, relay interfacing, web dashboards, scheduling, and OTA firmware updates.
+- **Wireless Communication:** Interested in 5G, wireless networks, communication protocols, and AI for networks.**
 
 ---
 
